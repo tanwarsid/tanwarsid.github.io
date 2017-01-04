@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>siddharth&#39;s home </title>
+    <link>https://tanwarsid.github.io/tags/vo/index.xml</link>
+    <description>Recent content on siddharth&#39;s home </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2016 Siddharth Tanwar</copyright>
+    <atom:link href="/tags/vo/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Disparate Image Matching using Duality Descriptor</title>
+      <link>https://tanwarsid.github.io/project/dude/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://tanwarsid.github.io/project/dude/</guid>
+      <description>&lt;p&gt;Course Project under course EE604A - Image Processing&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Followed ICIP’16 paper ”DUDE (duality descriptor): A robust descriptor for disparate images
+using line segment duality” by Youngwook P Kwon et al. (&lt;a href=&#34;http://ywpkwon.github.io/publication/icip16/icip16_dude.pdf&#34;&gt;http://ywpkwon.github.io/publication/icip16/icip16_dude.pdf&lt;/a&gt;) to implement from ground-up the
+author’s novel descriptor and detector algorithm in MATLAB&lt;/li&gt;
+&lt;li&gt;Obtained comparable results on repeatability and mAP as obtained by the author&lt;/li&gt;
+&lt;li&gt;Used other existing feature descriptors - SIFT, SURF, MSER, SYM-I and SYM-G to compare
+against our implementation of DUDE&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Check out the detailed report &lt;a href=&#34;ee604_report_group07.pdf&#34;&gt;here&lt;/a&gt; and presentation &lt;a href=&#34;EE604_Presentation.pdf&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Obstacle Detection using Cascade Classifiers</title>
+      <link>https://tanwarsid.github.io/project/cs365/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://tanwarsid.github.io/project/cs365/</guid>
+      <description>&lt;p&gt;Course Project under course CS365A - Artificial Intelligence Programming&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Trained Cascade Classifiers on features (HOG, Haar and LBP) to detect cars in images&lt;/li&gt;
+&lt;li&gt;Worked with the KITTI Vision Benchmark Suite - Object Detection Evaluation 2012 dataset&lt;/li&gt;
+&lt;li&gt;Partitioned Point Cloud data to identify obstacles using Velodyne Height Map algorithm (&amp;ldquo;&lt;a href=&#34;http://wiki.ros.org/velodyne_height_map&amp;quot;&#34;&gt;http://wiki.ros.org/velodyne_height_map&amp;quot;&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Processed LIDAR scan data using graph based technique to identify ROIs (Regions of Interest)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Check out the detailed report &lt;a href=&#34;cs365_report.pdf&#34;&gt;here&lt;/a&gt; and poster &lt;a href=&#34;cs365_poster.pdf&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Visual odometry for cars</title>
+      <link>https://tanwarsid.github.io/project/vo/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://tanwarsid.github.io/project/vo/</guid>
+      <description>&lt;p&gt;The project aimed at estimating the pose of a vehicle by means of an on-board forward facing
+camera and sensory fusion with an onboard IMU to handle the scale estimation problem.
+Further obstacle detection and avoidance using LIDAR sensors was also done as an extension. This was a sub-part to a
+larger problem statement-”Mahindra Rise Challenge” to build an autonomous car.&lt;/p&gt;
+
+&lt;p&gt;Check out the detailed report &lt;a href=&#34;vo_report.pdf&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>YOLO: real-time object detection</title>
+      <link>https://tanwarsid.github.io/project/yolo/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://tanwarsid.github.io/project/yolo/</guid>
+      <description>&lt;p&gt;Course Project under course CS698N - Recent Advances in Computer Vision&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Followed CVPR’16 paper ”You only look once: Unified, real-time object detection” by Joseph
+Redmon et al.(&lt;a href=&#34;http://pjreddie.com/media/files/papers/yolo_1.pdf&#34;&gt;http://pjreddie.com/media/files/papers/yolo_1.pdf&lt;/a&gt;), training and testing YOLO and tiny-YOLO CNN models on PASCAL VOC
+2012 Object Detection Dataset&lt;/li&gt;
+&lt;li&gt;Trained and obtained detection results on the object detection benchmark KITTI by using a
+YOLO network pre-trained on ImageNet&lt;/li&gt;
+&lt;li&gt;Did an extensive parameter study on YOLO, studying the changes observed on increasing/decreasing
+the grid resolution and increasing number of bounding boxes per grid cell&lt;/li&gt;
+&lt;li&gt;Our trained Tiny-YOLO model runs at around 50-70 fps on NVIDIA GeForce GTX 760 GPU
+with mAP 44.65% on PASCAL VOC 2012 validation dataset&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Check out the detailed report &lt;a href=&#34;cs698n_final-report.pdf&#34;&gt;here&lt;/a&gt; and presentation &lt;a href=&#34;CS698N_Final_Presentation.pdf&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;YOLO : &lt;a href=&#34;http://pjreddie.com/darknet/yolo/&#34;&gt;http://pjreddie.com/darknet/yolo/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

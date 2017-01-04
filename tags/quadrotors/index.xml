@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>siddharth&#39;s home </title>
+    <link>https://tanwarsid.github.io/tags/quadrotors/index.xml</link>
+    <description>Recent content on siddharth&#39;s home </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2016 Siddharth Tanwar</copyright>
+    <atom:link href="/tags/quadrotors/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Marker based Localization of a Quadrotor</title>
+      <link>https://tanwarsid.github.io/project/quadloc/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://tanwarsid.github.io/project/quadloc/</guid>
+      <description>&lt;p&gt;Course Project under course EE698G - Probabilistic Mobile Robotics&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Followed ICRA’15 paper ”Precise quadrotor autonomous landing with SRUKF vision perception”
+by S. Yang et al. to implement a high level control pipeline on a quadrotor&lt;/li&gt;
+&lt;li&gt;Used Aruco Markers and library in ROS framework to estimate pose from images and experimented
+by fusing this with onboard IMU and Sonar sensor data using Extended Kalman Filter
+(EKF), Unscented Kalman Filter (UKF) and Square-Root Unscented Kalman Filter (SRUKF)&lt;/li&gt;
+&lt;li&gt;Our team of two won the &lt;strong&gt;Best Presentation Award&lt;/strong&gt; for the project&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Check out the detailed report &lt;a href=&#34;ee698g_project_report.pdf&#34;&gt;here&lt;/a&gt; and presentation &lt;a href=&#34;EE698G_Presentation.pdf&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Sensory fusion, Pose Estimation and Controller Design on Quadrotors</title>
+      <link>https://tanwarsid.github.io/project/quad/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://tanwarsid.github.io/project/quad/</guid>
+      <description>&lt;p&gt;The project aimed at autonomous indoor and outdoor navigation of an Asctec Pelican quadrotor
+equipped with GPS, IMU and visual and ultrasonic sensors.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Implemented SLAM based algorithm SVO (Semi-direct Monocular Visual Odometry) using ROS framework and OpenCV on Asctec Pelican quadrotor to estimate pose in an outdoor environment&lt;/li&gt;
+&lt;li&gt;Fused data obtained from GPS, monocular bottom facing camera and IMU using Extended Kalman Filter to refine results&lt;/li&gt;
+&lt;li&gt;Simulated a cascade PID position controller of the Quadrotor on Matlab-Simulink&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

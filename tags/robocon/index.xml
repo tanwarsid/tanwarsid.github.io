@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>siddharth&#39;s home </title>
+    <link>https://tanwarsid.github.io/tags/robocon/index.xml</link>
+    <description>Recent content on siddharth&#39;s home </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2016 Siddharth Tanwar</copyright>
+    <atom:link href="/tags/robocon/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>ABU Robocon 2014</title>
+      <link>https://tanwarsid.github.io/project/rcon14/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://tanwarsid.github.io/project/rcon14/</guid>
+      <description>&lt;p&gt;The contest aimed at accomplishing certain pick and place tasks on an arena using two robots (1
+autonomous and 1 manual). As a 3-tier team of 30, we received Most Innovative Design award
+and finished 6th among 89 participating teams at national level.&lt;/p&gt;
+
+&lt;p&gt;Go to &lt;a href=&#34;http://students.iitk.ac.in/robocon/&#34;&gt;Project Site&lt;/a&gt;.&lt;/p&gt;
+
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/laNBByqB3BE&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ABU Robocon 2015</title>
+      <link>https://tanwarsid.github.io/project/rcon15/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://tanwarsid.github.io/project/rcon15/</guid>
+      <description>&lt;p&gt;The objective of the project was to design and fabricate and automate two manually controlled
+robots capable of playing Badminton in a Standard size Badminton court.&lt;/p&gt;
+
+&lt;p&gt;Go to &lt;a href=&#34;http://students.iitk.ac.in/robocon/&#34;&gt;Project Site&lt;/a&gt;.&lt;/p&gt;
+
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/9LFS0ITb_V4&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ABU Robocon 2016</title>
+      <link>https://tanwarsid.github.io/project/rcon16/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://tanwarsid.github.io/project/rcon16/</guid>
+      <description>&lt;p&gt;The objective of the pan-Asia contest was to design and manufacture an autonomous robot
+(Eco robot) and a semi-autonomous robot (Hybrid robot) capable of working in coordination
+to complete a particular set of tasks, where Eco robot equipped with only a single actuator for
+steering was guided by driving force (wind energy) obtained from Hybrid robot. We secured 3rd
+position among 108 participants at Nationals and were felicitated by SnT council, IIT Kanpur.&lt;/p&gt;
+
+&lt;p&gt;Go to &lt;a href=&#34;http://students.iitk.ac.in/robocon/&#34;&gt;Project Site&lt;/a&gt;.&lt;/p&gt;
+
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/4vAes6m6usg&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
